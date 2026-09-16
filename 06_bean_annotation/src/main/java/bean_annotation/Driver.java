@@ -10,6 +10,7 @@ public class Driver {
 		
 		Employee e = (Employee)con.getBean("employee");
 		System.out.println(e);
+		
 	}
 
 }
